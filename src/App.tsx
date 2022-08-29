@@ -9,7 +9,7 @@ const posts = [
     {
         id: 1,
         author: {
-            avatarUrl: 'https://media-exp1.licdn.com/dms/image/C4E03AQFwrCe9PXQcPA/profile-displayphoto-shrink_200_200/0/1621562513772?e=1663200000&v=beta&t=mBkmX45lEFeN67JypLMezWvgKn9Fp2sqGQOg0qOyvIQ',
+            avatarUrl: 'https://github.com/guispati.png',
             name: 'Guilherme Spati',
             role: 'Web Developer',
         },
@@ -23,7 +23,7 @@ const posts = [
     {
         id: 2,
         author: {
-            avatarUrl: 'https://media-exp1.licdn.com/dms/image/C4E03AQFwrCe9PXQcPA/profile-displayphoto-shrink_200_200/0/1621562513772?e=1663200000&v=beta&t=mBkmX45lEFeN67JypLMezWvgKn9Fp2sqGQOg0qOyvIQ',
+            avatarUrl: 'https://github.com/guispati.png',
             name: 'Guilherme Spati',
             role: 'Web Developer',
         },

@@ -18,7 +18,7 @@ interface PostProps {
 }
 
 interface Content {
-    type: 'paragraph' | 'link';
+    type: string;
     content: string;
 }
 
